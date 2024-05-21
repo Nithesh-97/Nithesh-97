@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithesh-97
+- 👋 Hi, I’m Nithesh
 - 👀 I’m interested in Mechanical Design
 - 🌱 I’m currently learning Animation and rendering
 - 📫 How to reach me : nithesh@lcscon.com
